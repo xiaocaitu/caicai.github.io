@@ -5,15 +5,15 @@ baseurl:
 url: https://www.136689.xyz
 date_format: "ordinal"
 title: 小菜菜
-subtitle: "一个菜鸟博客"
+subtitle: "一只菜鸟博客"
 description: "菜鸟博客，个人杂记"
 keywords: 菜鸟博客, 
 timezone: Asia/Shanghai
 encoding: "utf-8"
 # 页面左下角显示的年份
-since: 24
+since: 2024
 # 源码仓库，请替换成自己的
-repository: mzlogin/caicai.github.io
+repository: xiaocaitu/xiaocaitu.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
@@ -60,8 +60,8 @@ highlight_theme: github
 author: Zhuang Ma
 organization: 
 organization_url: 
-github_username: mzlogin
-location: caicai, China
+
+location: 北京
 email: caicai@gmail.com
 
 # ---------------- #
@@ -81,10 +81,6 @@ navs:
     label: 归档
     mobile-hidden: true
 
-  -
-    href: /open-source/
-    label: 开源
-    mobile-hidden: true
 
   -
     href: /links/
